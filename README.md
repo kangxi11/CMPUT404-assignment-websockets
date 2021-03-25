@@ -64,3 +64,4 @@ References
 * https://devcenter.heroku.com/articles/python-websockets
 * http://www.gevent.org/api/gevent.queue.html
 * Assignment 4
+* https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/onopen

@@ -147,7 +147,7 @@ def world():
     '''you should probably return the world here'''
     return jsonify(myWorld.world())
 
-@app.route("/entity/<entity>")    
+@app.route("/entity/<entity>")
 def get_entity(entity):
     '''This is the GET version of the entity interface, return a representation of the entity'''
     return jsonify(myWorld.get(entity))
