@@ -59,3 +59,8 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+References
+* https://devcenter.heroku.com/articles/python-websockets
+* http://www.gevent.org/api/gevent.queue.html
+* Assignment 4
