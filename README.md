@@ -20,13 +20,13 @@ pip install -r requirements.txt
 Contributors / Licensing
 ========================
 
-Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
+Generally everything is LICENSE'D under the Apache 2 license by Ryan Kang.
 
 freetests.py is LICENSE'D under a BSD-like license:
 
 From ws4py
 
-Copyright (c) 2011-2014, Sylvain Hellegouarch, Abram Hindle
+Copyright (c) 2021 Ryan Kang
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -61,6 +61,6 @@ Contributors
 References
 * https://devcenter.heroku.com/articles/python-websockets
 * http://www.gevent.org/api/gevent.queue.html
-* Assignment 4
+* https://github.com/kangxi11/CMPUT404-assignment-ajax
 * https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/onopen
 * https://css-tricks.com/snippets/javascript/random-hex-color/
