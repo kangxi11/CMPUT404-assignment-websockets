@@ -56,12 +56,11 @@ POSSIBILITY OF SUCH DAMAGE.
 Contributors
 ============
 
-* Mark Galloway
-* Abram Hindle
-* Cole Mackenzie
+* None
 
 References
 * https://devcenter.heroku.com/articles/python-websockets
 * http://www.gevent.org/api/gevent.queue.html
 * Assignment 4
 * https://developer.mozilla.org/en-US/docs/Web/API/WebSocket/onopen
+* https://css-tricks.com/snippets/javascript/random-hex-color/
